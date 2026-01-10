@@ -12,5 +12,5 @@ src-git telephony https://github.com/coolsnowwolf/telephony.git
 #src-link custom /usr/src/openwrt/custom-feed
 # iStore官方软件源
 src-git istore https://github.com/linkease/istore;main
-src-git passwall_luci https://github.com/xiaorouji/openwrt-passwall;main
-src-git openclash https://github.com/vernesong/OpenClash
+#src-git passwall_luci https://github.com/xiaorouji/openwrt-passwall;main
+#src-git openclash https://github.com/vernesong/OpenClash
